@@ -1,0 +1,22 @@
+{
+  "name": "LYHCategoryCode",
+  "version": "0.1.0",
+  "summary": "A short description of LYHCategoryCode.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liu yonghui/LYHCategoryCode",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liu yonghui": "hui15801150234@163.com"
+  },
+  "source": {
+    "git": "https://github.com/liu yonghui/LYHCategoryCode.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LYHCategoryCode/Classes/**/*"
+}

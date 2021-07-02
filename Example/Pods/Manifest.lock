@@ -1,0 +1,16 @@
+PODS:
+  - LYHCategoryCode (0.1.0)
+
+DEPENDENCIES:
+  - LYHCategoryCode (from `../`)
+
+EXTERNAL SOURCES:
+  LYHCategoryCode:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LYHCategoryCode: 504d788384be66bbb83c4860fd02133ad498404d
+
+PODFILE CHECKSUM: 1788354923c6a86f45fdb85a7352b1b00e292994
+
+COCOAPODS: 1.10.1

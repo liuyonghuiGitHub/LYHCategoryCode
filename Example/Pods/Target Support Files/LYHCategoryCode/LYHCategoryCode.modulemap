@@ -1,0 +1,6 @@
+framework module LYHCategoryCode {
+  umbrella header "LYHCategoryCode-umbrella.h"
+
+  export *
+  module * { export * }
+}
